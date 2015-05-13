@@ -3,7 +3,7 @@ layout: post
 title: Erste Jekyll Hallo Welt Seite
 ---
 
-*Hallo Welt
+Hallo Welt
 
 -----
 
