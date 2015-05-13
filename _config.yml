@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Meine erste eigen Jekyll Hallo Welt Seite
+tagline:             ganz viele Hääääsches
+url:                 http://bitsfritz.github.io
 paginate:            1
 baseurl:             ""
 
@@ -20,11 +20,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Felix P.
+  url:               http://bitsfritz.github.io
+  email:             leiderkeineemail@no-mail.com
 
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/bitsfritz/bitsfritz.github.io
